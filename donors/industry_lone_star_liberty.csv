@@ -1,0 +1,275 @@
+official,donor,zip5,total,tier,industry,sector,decided_by,industry_basis,employers,occupations,oil_basis,oil_decided_by,row_ids
+lone_star_liberty,"MUSK, ELON (incl. Elon Musk Revocable Trust)",*,10000000.00,not,Tech & Internet,Communications/Electronics,hand,"Musk trust (SpaceX, Tesla)",,,,,SA11C.4926
+lone_star_liberty,SLF PAC,20011,5000000.00,not,Candidate & Party Committees,Ideological/Single-Issue,hand,"Senate Leadership Fund, Republican super PAC",,,,,SA11C.4938
+lone_star_liberty,PRESERVE TEXAS INC,22101,1425000.00,unclassified,Not identified,Not identified,hand,nonprofit that discloses no donors (pass-through); cannot be read by industry,,,,,SA11AI.4429 SA11C.4538 SA11C.4693 SA11C.4761 SA11C.4934
+lone_star_liberty,"SCHARBAUER, DOUGLAS (Midland; oil consultant, mineral owner)",*,1225700.00,strict,Oil & Gas,Energy & Natural Resources,tier,strict oil-and-gas tier from sector_read.py,MIDLAND CHAMBER OF COMMERCE,CONSULTANT,filed occupation 'Oil Consultant' to Patrick; Scharbauer family mineral rights; P.O. Box 2888 Midland on every committee [matched on name],entity,SA11AI.4364 SA11AI.4436 SA11AI.4592 SA11AI.4779 SA11AI.4778 SA11AI.4125
+lone_star_liberty,"KNUTZ, JONATHAN",77056,1100000.00,not,Health Services & Pharmaceuticals,Health,hand,filed employer Legacy Medical Consultants (wound-care products),Legacy Medical Consultants,CEO,,,SA11AI.4400 SA11AI.4359 SA11AI.4689
+lone_star_liberty,"GEBBIA, JOSEPH",94103,1000000.00,not,Tech & Internet,Communications/Electronics,hand,Airbnb co-founder (filed employer AIRBNB),SELF,ENTREPRENEUR,,,SA11AI.5135
+lone_star_liberty,MAHA ACTION PAC,20001,1000000.00,not,Ideological & Single-Issue Groups,Ideological/Single-Issue,hand,MAHA Action (issue PAC),,,,,SA11C.4932
+lone_star_liberty,THOMAS J HENRY LAW PLLC,78401,646107.00,not,Lawyers / Law Firms,Lawyers & Lobbyists,keyword,filed employer/occupation/name matched 'PLLC',,,,,SA11AI.4775 SA11AI.4771
+lone_star_liberty,"MCDONALD, JOHNNY (Lubbock oil producer; incl. SSC Inc, Baloney Feathers Ltd, Two Toads Holdings, spouse Timmie)",*,510000.00,strict,Oil & Gas,Energy & Natural Resources,tier,strict oil-and-gas tier from sector_read.py,,,"Johnny McDonald filed occupation OIL PRODUCER to Paxton Victory; SSC Inc, Baloney Feathers Ltd, Two Toads Holdings and 'Charlene McDonald, Johnny' all file from his P.O. Box 1586, Lubbock 79408 (FEC street field) [matched on name]",entity,SA11AI.4397 SA11AI.4565 SA11AI.4563 SA11AI.4567 SA11AI.4772
+lone_star_liberty,"HEAVIN, GARY",76710,500000.00,not,Recreation / Live Entertainment,Misc Business,hand,filed employer Curves International (fitness franchise),CURVES INTERNATIONAL,CO-FOUNDER,,,SA11AI.4667 SA11AI.4119
+lone_star_liberty,"MILTON, CHELSEY",85048,500000.00,unclassified,Transportation & Rail,Transportation,hand,"spouse of Trevor Milton, Nikola (truck maker) founder",HOMEMAKER,HOMEMAKER,,,SA11AI.4152
+lone_star_liberty,"AZIZ, MUHAMMAD",77002,293000.00,not,Lawyers / Law Firms,Lawyers & Lobbyists,hand,"Abraham Watkins (law firm), partner",ABRAHAM WATKINS,PARTNER,,,SA11AI.4531 SA11AI.4683
+lone_star_liberty,BUCKEYE VICTORY ACTION INC,43082,250000.00,not,Candidate & Party Committees,Ideological/Single-Issue,hand,Ohio Republican political committee (name),,,,,SA11C.4917
+lone_star_liberty,"GORDY, RUSSELL (SG Interests; incl. Glenda Gordy)",*,250000.00,strict,Oil & Gas,Energy & Natural Resources,tier,strict oil-and-gas tier from sector_read.py,S.G. Business Services L.T.D.,Owner/President,"plan ruling: flagged. Founder of SG Interests (oil and gas E&P, est. 1989), president of Gordy Oil Co. and Gordy Gas Corp. (SHSU alumni bio); Capital & Main 2026-10-22 calls him oil and gas and real estate. Filed employer S.G. Business Services.",hand,SA11AI.5008
+lone_star_liberty,PAUL MCLAREN REVOCABLE TRUST,75093,250000.00,not,Construction & Contractors,Construction,hand,Paul McLaren (Pogue Construction),,,,,SA11AI.4117
+lone_star_liberty,"MARLING, ROBERT",77316,225000.00,not,Banking & Finance,"Finance, Insurance & Real Estate",hand,Woodforest National Bank (filed employer),WFG,CEO,,,SA11AI.4376 SA11AI.4442 SA11AI.4121
+lone_star_liberty,"DEASON, DARWIN",75225,210000.00,not,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'CAPITAL',DEASON CAPITAL SERVICES,CHAIRMAN,,,SA11AI.4146
+lone_star_liberty,CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE CHEVRON CORPORATION,94583,200000.00,strict,Oil & Gas,Energy & Natural Resources,tier,strict oil-and-gas tier from sector_read.py,,,knowledge-wiki/entities/orgs.csv O-00103; producer [matched on name],entity,SA11C.4919
+lone_star_liberty,"GEO REENTRY SERVICES, LLC",33431,200000.00,not,Business Services & Associations,Misc Business,hand,GEO Group subsidiary (prison and reentry services),,,,,SA11C.4928 SA11AI.5138
+lone_star_liberty,"STOGNER, BRANT",77002,200000.00,not,Lawyers / Law Firms,Lawyers & Lobbyists,keyword,filed employer/occupation/name matched 'ATTORNEY',SELF,ATTORNEY,,,SA11AI.4686
+lone_star_liberty,"HOLMES, WILLIAM",79702,175000.00,strict,Oil & Gas,Energy & Natural Resources,tier,strict oil-and-gas tier from sector_read.py,SELF-EMPLOYED,OIL AND GAS,keyword 'OIL',keyword,SA11AI.4438 SA11AI.4794 SA11AI.5011 SA11AI.5009
+lone_star_liberty,"AGOSTO, BENNY",77002,166000.00,not,Lawyers / Law Firms,Lawyers & Lobbyists,hand,"Abraham Watkins (law firm), managing partner",,"Abraham, Watkins, Nichols, Sorrels, Ag",,,SA11AI.4777
+lone_star_liberty,"SORKIN, FELIX",77478,150000.00,not,Manufacturing & Industry,Misc Business,hand,filed employer General Technologies Inc.,"General Technologies, Inc",PRESIDENT,,,SA11AI.4396
+lone_star_liberty,"GABBAY, MAYA",75229,120000.00,not,Real Estate,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'REAL ESTATE',SELF-EMPLOYED,REAL ESTATE,,,SA11AI.4369 SA11AI.4158
+lone_star_liberty,"ABBOTT, LAUREN",77056,100000.00,not,Real Estate,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'REAL ESTATE',HomeSmart,Real Estate Agent,,,SA11AI.4399
+lone_star_liberty,"BLAKE, GARY",76109,100000.00,not,Hospitals & Nursing Homes,Health,hand,filed employer Creative Solutions in Healthcare (nursing-home operator),PRESIDENT,,,,SA11AI.4590
+lone_star_liberty,DAVID N KHOURY REVOCABLE TRUST,33480,100000.00,unclassified,Not identified,Not identified,none,no rule matched,,,,,SA11C.4921
+lone_star_liberty,"DONDERO, JAMES",75201,100000.00,not,Securities & Investment,"Finance, Insurance & Real Estate",hand,filed employer NexPoint Advisors,NEXPOINT ADVISORS,OWNER,,,SA11AI.4123
+lone_star_liberty,EVEXIAS MANAGEMENT,76092,100000.00,not,Health Services & Pharmaceuticals,Health,hand,hormone-therapy clinic company (name),,,,,SA11AI.4690
+lone_star_liberty,"LACORE, TERRY",75454,100000.00,not,Health Services & Pharmaceuticals,Health,hand,filed employer bHIP (nutritional supplements),LACORE,FOUNDER,,,SA11AI.4571
+lone_star_liberty,"MILTON, TREVOR",85048,100000.00,not,Transportation & Rail,Transportation,hand,"Trevor Milton, Nikola (truck maker) founder",ENTREPRENEUR,ENTREPRENUER,,,SA11AI.4392
+lone_star_liberty,"MOAYEDI, MEHRDAD (Centurion American)",*,100000.00,not,Real Estate,"Finance, Insurance & Real Estate",basis,oil-tier ruling basis names 'REAL ESTATE',Centurion American,PRESIDENT ; President,,,SA11AI.4401 SA11AI.4555
+lone_star_liberty,"MOLLESTON, MARGARET",77380,100000.00,strict,Oil & Gas,Energy & Natural Resources,tier,strict oil-and-gas tier from sector_read.py,"GeoSouthern Energy GP, LLC",PRESIDENT,"plan ruling: Molleston (GeoSouthern) strict; GeoSouthern Energy, producer [matched on employer]",entity,SA11AI.4970
+lone_star_liberty,"STALLINGS, KYLE (Desert Royalty; incl. Jamie Stallings)",*,100000.00,strict,Oil & Gas,Energy & Natural Resources,tier,strict oil-and-gas tier from sector_read.py,INDEPENDENT OIL AND GAS,EXECUTIVE,Desert Royalty / Permian Basin Acquisition Fund (filed employers); registry E-0000165; spouse files from the same zip [matched on name],entity,SA11AI.4444 SA11AI.4673
+lone_star_liberty,TEXANS FOR TRUTH AND LIBERTY PAC,78701,100000.00,unclassified,Ideological & Single-Issue Groups,Ideological/Single-Issue,hand,PAC; funders not established,,,,,SA11C.4684
+lone_star_liberty,"KENT, WILLIAM B",79708,85000.00,strict,Oil & Gas,Energy & Natural Resources,tier,strict oil-and-gas tier from sector_read.py,The Kent Companies,CEO,"Saul's ruling 2026-10-29: petrochemicals, fuel wholesale/distribution and fuel hauling are oil industry; strict. The Kent Companies (filed employer), Midland: Kent Kwik convenience stores and fuel distribution; retail fuel not counted",hand,SA11AI.4877 SA11AI.5002
+lone_star_liberty,"ABRAHAM, SALEM",,75000.00,not,Securities & Investment,"Finance, Insurance & Real Estate",hand,Abraham Trading Co. (futures trading),,,,,SA11AI.4371 SA11AI.4439
+lone_star_liberty,"DYER, DON",78731,75000.00,not,"Retail, Food & Beverage",Misc Business,hand,filed employer PJs of Texas (Papa John's franchisee); also Aminex Therapeutics,Aminex Therapeutics,CEO,,,SA11AI.4390 SA11AI.4668
+lone_star_liberty,"PENDERY, DARLENE",75022,75000.00,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,RETIRED,RETIRED,,,SA11AI.4361
+lone_star_liberty,SKINCURE ONCOLOGY LLC,60527,75000.00,not,Health Services & Pharmaceuticals,Health,hand,skin-cancer treatment company,,,,,SA11AI.4759 SA11AI.5141
+lone_star_liberty,"U S ANESTHESIA PARTNERS, INC PAC D B A USAP PAC",75251,75000.00,not,Health Professionals,Health,hand,anesthesia group PAC,,,,,SA11C.4403 SA11C.4402 SA11C.4393
+lone_star_liberty,"AUNG, KATIE",75229,71000.00,not,"Retail, Food & Beverage",Misc Business,hand,filed employer Yummi Sushi,Yummi Sushi,CO-CEO,,,SA11AI.4379 SA11AI.4377 SA11AI.4370 SA11AI.4532 SA11AI.4882
+lone_star_liberty,"SOKOLOV, KONSTANTIN",60654,68299.30,not,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'PRIVATE EQUITY',SELF,PRIVATE EQUITY,,,SA11AI.4964 SA12.5144
+lone_star_liberty,"SAULSBURY, CHARLES (Saulsbury Industries)",*,60000.00,strict,Oil & Gas,Energy & Natural Resources,tier,strict oil-and-gas tier from sector_read.py,RETIRED ; Saulsbury Industries,EXECUTIVE VICE PRESIDENT ; RETIRED,"Saulsbury Industries (filed employer), Odessa midstream EPC contractor [matched on name]",entity,SA11AI.4389 SA11AI.4431
+lone_star_liberty,"REAUD, WAYNE",77701,53299.30,not,Lawyers / Law Firms,Lawyers & Lobbyists,keyword,filed employer/occupation/name matched 'ATTORNEY',SELF,ATTORNEY,,,SA11AI.4535 SA11AI.4688 SA12.5292
+lone_star_liberty,"PECK, JOHN",75225,50456.87,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,RETIRED ; Retired,RETIRED ; Retired,,,SA11AI.4127 SA12.5265
+lone_star_liberty,"BYLER, BILL",77418,50000.00,not,Construction & Contractors,Construction,keyword,filed employer/occupation/name matched 'CONSTRUCTION',WT BYLER,CONSTRUCTION,,,SA11AI.4640
+lone_star_liberty,"CALHOUN, MATTHEW",,50000.00,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,,,,,SA11AI.5127
+lone_star_liberty,FIRST PRINCIPLES PAC,37203,50000.00,not,Not identified,Not identified,none,no rule matched,,,,,SA11C.4763
+lone_star_liberty,GORILLA LAW FIRM,79401,50000.00,not,Lawyers / Law Firms,Lawyers & Lobbyists,keyword,filed employer/occupation/name matched 'LAW FIRM',,,,,SA11AI.4769
+lone_star_liberty,"JONES, JERRAL",,50000.00,not,Recreation / Live Entertainment,Misc Business,hand,"filed employer Dallas Cowboys, owner; his oil and gas interests (Comstock) are not on this filing",,,,,SA11AI.4674
+lone_star_liberty,"NOLANA ST, LLC",78503,50000.00,unclassified,Not identified,Not identified,none,no rule matched,,,,,SA11AI.4384
+lone_star_liberty,"PINKERTON, CHAD",77056,50000.00,not,Lawyers / Law Firms,Lawyers & Lobbyists,keyword,filed employer/occupation/name matched 'ATTORNEY',SELF,ATTORNEY,,,SA11AI.4633
+lone_star_liberty,"RICKETTS, MARLENE",,50000.00,not,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,,,,,SA11AI.5016
+lone_star_liberty,TGS CEDAR PORT PARTNERS,77007,50000.00,not,Real Estate,"Finance, Insurance & Real Estate",basis,oil-tier ruling basis names 'DEVELOPER',,,,,SA11C.4940
+lone_star_liberty,"HUFFINES, PHILLIP",75205,43989.79,not,Not identified,Not identified,none,no rule matched,HUFFINES COMMUNITIES,CO-OWNER,,,SA11AI.4156 SA12.5151
+lone_star_liberty,"WILSON, CYNTHIA",77059,41299.30,not,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,,,,,SA11AI.4448 SA11AI.4533 SA12.5237
+lone_star_liberty,"BENNETT, MONTGOMERY",75254,36000.00,not,Real Estate,"Finance, Insurance & Real Estate",hand,filed employer Ashford Hospitality Trust (hotel REIT),ASHFORD INC.,CEO,,,SA11AI.4129
+lone_star_liberty,"MILAM, CHRISTOPHER",78701,36000.00,not,Real Estate,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'DEVELOPMENT',INTERNATIONAL DEVELOPMENT MANA,REAL ESTATE & FINANCE,,,SA11AI.4148
+lone_star_liberty,"BELL, PETER",77027,35000.00,not,Construction & Contractors,Construction,hand,filed employer Cotton Holdings (disaster restoration),COTTON HOLDINGS,CEO,,,SA11AI.4671
+lone_star_liberty,"DEJESUS, DAVID",76248,35000.00,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,,,,,SA11AI.4368
+lone_star_liberty,"DELEK US ENERGY, INC",37027,35000.00,strict,Oil & Gas,Energy & Natural Resources,tier,strict oil-and-gas tier from sector_read.py,,,refiner [matched on name],entity,SA11C.4924 SA11C.4923
+lone_star_liberty,"BEGUM, ALEXANDER",78526,34000.00,not,Lawyers / Law Firms,Lawyers & Lobbyists,keyword,filed employer/occupation/name matched 'LAWYER',Begum Law Group,Lawyer,,,SA11AI.4880 SA11AI.4881
+lone_star_liberty,"LONG, ERIC",,30000.00,not,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,,,,,SA11AI.4365 SA11AI.4780
+lone_star_liberty,"MASKALA, ART",89133,30000.00,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,Retired,,,,SA11AI.4857 SA11AI.4844 SA11AI.4845
+lone_star_liberty,"SIMON GREENSTONE PANATIER, PC",75270,30000.00,not,Lawyers / Law Firms,Lawyers & Lobbyists,basis,oil-tier ruling basis names 'LAW FIRM',,,,,SA11AI.4536 SA11AI.4131
+lone_star_liberty,"VANWOLFSWINKEL, RANDALL",,30000.00,not,Real Estate,"Finance, Insurance & Real Estate",basis,oil-tier ruling basis names 'REAL ESTATE',,,,,SA11AI.4788
+lone_star_liberty,"ABRAHAM, SALEM",79014,28299.30,not,Securities & Investment,"Finance, Insurance & Real Estate",hand,Abraham Trading Co. (futures trading),ABRAHAM TRADING,ABRAHAM TRADING CO. ; PRESIDENT,,,SA11AI.4791 SA12.5152
+lone_star_liberty,"BURCIAGA, VIRGINIA",,26000.00,strict,Oil & Gas,Energy & Natural Resources,tier,strict oil-and-gas tier from sector_read.py,,,"spouse of Gilbert Burciaga (ARM Energy, 'Oil & Gas'); family member; weak basis (name only)",hand,SA11AI.4793
+lone_star_liberty,AB46 INVESTMENTS LLC,85701,25000.00,unclassified,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'INVESTMENTS',,,,,SA11AI.4398
+lone_star_liberty,"BERRY, ALLEN",,25000.00,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,,,,,SA11AI.4363
+lone_star_liberty,"BOWLING, RANDALL",79912,25000.00,not,Home Builders,Construction,basis,oil-tier ruling basis names 'HOMES',,,,,SA11AI.4395
+lone_star_liberty,"BOWLING, ROBERT",79912,25000.00,not,Home Builders,Construction,basis,oil-tier ruling basis names 'HOMES',,,,,SA11AI.4394
+lone_star_liberty,"CAMPBELL, JIM",,25000.00,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,,,,,SA11AI.4678
+lone_star_liberty,"CLAYTON, GARY",,25000.00,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,,,,,SA11AI.4782
+lone_star_liberty,DALY & BLACK PC,77098,25000.00,not,Lawyers / Law Firms,Lawyers & Lobbyists,basis,oil-tier ruling basis names 'LAW FIRM',,,,,SA11AI.4636
+lone_star_liberty,"DAVIS, RAY (Avatar Investments; Energy Transfer co-founder)",*,25000.00,strict,Oil & Gas,Energy & Natural Resources,tier,strict oil-and-gas tier from sector_read.py,retired,retired,"Avatar Investments (filed employer); co-founded Energy Transfer Partners, co-CEO to 2007 [matched on name]",entity,SA11AI.4948
+lone_star_liberty,FIREFLY CAPITAL GROUP LLC,75205,25000.00,unclassified,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'CAPITAL',,,,,SA11AI.4628
+lone_star_liberty,"GLENDENNING, REX",75033,25000.00,not,Real Estate,"Finance, Insurance & Real Estate",basis,oil-tier ruling basis names 'REAL ESTATE',,,,,SA11AI.4790
+lone_star_liberty,HEMISPHERE AEROSPACE INVESTMENTS LLC,76701,25000.00,not,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'INVESTMENTS',,,,,SA11AI.4391
+lone_star_liberty,"LOEFFLER, KELLY",30305,25000.00,not,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,,,,,SA11AI.5137
+lone_star_liberty,"PEINADO, FRANK",76227,25000.00,not,Construction & Contractors,Construction,hand,filed employer FA Peinado LLC (construction),Peinado Construction,General Contractor Owner,,,SA11AI.4867
+lone_star_liberty,"SALEM, ABRAHAM",79014,25000.00,not,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'TRADING',ABRAHAM TRADING CO.,INVESTMENT MANAGER,,,SA11AI.4557
+lone_star_liberty,"SAWYER, JOHN",76710,25000.00,not,Not identified,Not identified,none,no rule matched,HAI,CEO,,,SA11AI.4879
+lone_star_liberty,"SCHARBAUER, CHRIS",79118,25000.00,strict,Oil & Gas,Energy & Natural Resources,tier,strict oil-and-gas tier from sector_read.py,,,"Chris Scharbauer, Amarillo; brother of Douglas in the Scharbauer ranching and mineral family; family member",hand,SA11AI.4382
+lone_star_liberty,"SUTTON, JOSEPH",77002,25000.00,not,Education & Nonprofits,Other,keyword,filed employer/occupation/name matched 'FOUNDATION',SUTTON FOUNDATION,DIRECTOR,,,SA11AI.4446
+lone_star_liberty,"ZAFFIRINI, CARLOS",78701,25000.00,not,Not identified,Not identified,none,no rule matched,ZAFFIRINI LAW,FOUNDER,,,SA11AI.4588
+lone_star_liberty,COLLIN COUNTY PATRIOTS,77393,20000.00,not,Not identified,Not identified,none,no rule matched,,,,,SA15.4546
+lone_star_liberty,"MABEE, JOHN",,20000.00,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,,,,,SA11AI.4784
+lone_star_liberty,"NOSNIK, PEDRO",75219,20000.00,not,Health Professionals,Health,keyword,filed employer/occupation/name matched 'PHYSICIAN',SELF,PHYSICIAN,,,SA11AI.4378
+lone_star_liberty,PROVIDER COALITION FOR CARE STATE POLITICAL ACTION COMMITTEE,79707,20000.00,not,Health Services & Pharmaceuticals,Health,basis,oil-tier ruling basis names 'HEALTH',,,,,SA11C.4936
+lone_star_liberty,"SCOTT, JAMES",77705,20000.00,not,Not identified,Not identified,none,no rule matched,"Trans-Global Solutions, Inc.",PRESIDENT,,,SA11AI.4952
+lone_star_liberty,TOM RAMSEY CAMPAIGN,77255,20000.00,not,Candidate & Party Committees,Ideological/Single-Issue,keyword,filed employer/occupation/name matched 'CAMPAIGN',,,,,SA11C.4774
+lone_star_liberty,"BRAND, OTHAL",78504,19299.30,not,Not identified,Not identified,none,no rule matched,OTHAL E BRAND CENTER,FOUNDER,,,SA11AI.4150 SA12.5175
+lone_star_liberty,EXCEL HEART CARE,75234,17500.00,unclassified,Not identified,Not identified,none,no rule matched,,,,,SA11AI.4767
+lone_star_liberty,"WARD, R",75230,16000.00,not,Not identified,Not identified,none,no rule matched,DOUBLE DIAMOND RESORTS,PRESIDENT,,,SA11AI.4380
+lone_star_liberty,"COWLING, BYRON",79423,15989.79,not,Not identified,Not identified,none,no rule matched,SELF,MOVING AND STORAGE,,,SA11AI.4372 SA11AI.4573 SA12.5329
+lone_star_liberty,"BYRON COWLING, BARBARA COWLING",79423,15000.00,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,,,,,SA11AI.4386
+lone_star_liberty,"HEWES, ANDREW",75244,15000.00,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,SELF,SELF,,,SA11AI.4367
+lone_star_liberty,"HOWARD, VANCE",77340,15000.00,not,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'CAPITAL',HOWARD CAPITAL,CEO,,,SA11AI.4679
+lone_star_liberty,"LYONS, MIKE",75201,15000.00,not,Lawyers / Law Firms,Lawyers & Lobbyists,keyword,filed employer/occupation/name matched 'ATTORNEY',Lyons & Simmons,Attorney,,,SA11AI.4585
+lone_star_liberty,PAL CON LTD,76401,15000.00,unclassified,Not identified,Not identified,none,no rule matched,,,,,SA11C.4529
+lone_star_liberty,UNIQUE FUNDING SOLUTIONS,11563,15000.00,unclassified,Not identified,Not identified,none,no rule matched,,,,,SA11AI.4154
+lone_star_liberty,"BEACH, GENTRY",75703,14000.00,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,retired,retired,,,SA11AI.4871
+lone_star_liberty,"SHUAIB, MIHAELA",78503,13500.00,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,retired,retired,,,SA11AI.4865
+lone_star_liberty,"SOWELL, JAMES",75201,13299.30,not,Not identified,Not identified,none,no rule matched,Sowell & Co.,President,,,SA11AI.4373 SA12.5264
+lone_star_liberty,"WADDELL, KARL",75225,11000.00,not,Not identified,Not identified,none,no rule matched,CEC FACILITIES GROUP,CEO,,,SA11AI.4387
+lone_star_liberty,ARKONS VENTURES LLC,76262,10000.00,unclassified,Not identified,Not identified,none,no rule matched,,,,,SA11AI.4765
+lone_star_liberty,"BADAT, BILAAL",77027,10000.00,not,Lawyers / Law Firms,Lawyers & Lobbyists,keyword,filed employer/occupation/name matched 'ATTORNEY',SELF,ATTORNEY,,,SA11AI.4638
+lone_star_liberty,"BOCKORNY, DAVID",57103,10000.00,not,Not identified,Not identified,none,no rule matched,"Bockorny Group, Inc",CEO,,,SA11AI.4962
+lone_star_liberty,"BUZBEE, ANTHONY",77002,10000.00,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,,,,,SA11AI.4375
+lone_star_liberty,"COWEN, MICHAEL",78201,10000.00,not,Lawyers / Law Firms,Lawyers & Lobbyists,keyword,filed employer/occupation/name matched 'ATTORNEY',Cowen Rodriguez Peacock,Attorney,,,SA11AI.4869
+lone_star_liberty,"DEASON, DOUG",75229,10000.00,not,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'INVESTOR',DCS,INVESTOR,,,SA11AI.4133
+lone_star_liberty,"FRANKLIN, LARRY",78216,10000.00,unclassified,Business Services & Associations,Misc Business,hand,retired Harte-Hanks chairman (marketing services),,,,,SA11AI.4786
+lone_star_liberty,"GUENTHER, JACK",78209,10000.00,unclassified,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'INVESTOR',SELF,INVESTOR,,,SA11AI.4696
+lone_star_liberty,"HERBST, KAREN",75248,10000.00,strict,Oil & Gas,Energy & Natural Resources,tier,strict oil-and-gas tier from sector_read.py,PROVIDENCE MINERALS,LAND MANAGER,keyword 'MINERAL',keyword,SA11AI.4669
+lone_star_liberty,"LORFING, RUSSELL",79602,10000.00,not,Lawyers / Law Firms,Lawyers & Lobbyists,keyword,filed employer/occupation/name matched 'ATTORNEY',Keith & Lorfing,Attorney,,,SA11AI.4863
+lone_star_liberty,"MADMON, GUY",89120,10000.00,strict,Oil & Gas,Energy & Natural Resources,tier,strict oil-and-gas tier from sector_read.py,Las Vegas Petroleum,CEO,"Saul's ruling 2026-10-29: petrochemicals, fuel wholesale/distribution and fuel hauling are oil industry; strict. LV Petroleum / Las Vegas Petroleum (filed employers): fuel distribution, not counted",hand,SA11AI.4859
+lone_star_liberty,"OCEANS ACQUISITION, INC",75024,10000.00,unclassified,Not identified,Not identified,none,no rule matched,,,,,SA11AI.4433
+lone_star_liberty,SB DEVELOPMENT INITIATIVES LLC,75001,10000.00,unclassified,Real Estate,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'DEVELOPMENT',,,,,SA11AI.4435
+lone_star_liberty,"SCARBOROUGH, KATHRYN",78746,10000.00,not,Real Estate,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'REAL ESTATE',SELF,REAL ESTATE,,,SA11AI.4944
+lone_star_liberty,THE SIGNORELLI COMPANY,77380,10000.00,unclassified,Not identified,Not identified,none,no rule matched,,,,,SA11AI.4362
+lone_star_liberty,"CRENSHAW, WILL",78746,8299.30,not,Manufacturing & Industry,Misc Business,keyword,filed employer/occupation/name matched 'INDUSTRIES',Block Bayou Industries,General Manager,,,SA11AI.5006 SA12.5387
+lone_star_liberty,"KHAWAJA, OMAR",77056,7500.00,not,Lawyers / Law Firms,Lawyers & Lobbyists,keyword,filed employer/occupation/name matched 'ATTORNEY',SELF,ATTORNEY,,,SA11AI.4631
+lone_star_liberty,BOUNDARY CONSULTING LLC,75070,7000.00,unclassified,Lobbyists & Consultants,Lawyers & Lobbyists,keyword,filed employer/occupation/name matched 'CONSULTING',,,,,SA11AI.4135
+lone_star_liberty,"TRUCHARD, JAMES",78746,7000.00,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,RETIRED,RETIRED,,,SA11AI.4946
+lone_star_liberty,"GOLINGHORST, KIRK",78735,5000.00,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,,,,,SA11AI.4985
+lone_star_liberty,"JAIN, UMESH",77479,5000.00,not,Business Services & Associations,Misc Business,keyword,filed employer/occupation/name matched 'ACCOUNTING',SELF,ACCOUNTING,,,SA11AI.4441
+lone_star_liberty,KALSHI INC,10012,5000.00,unclassified,Not identified,Not identified,none,no rule matched,,,,,SA11AI.4137
+lone_star_liberty,PROSPERITY WEST TEXAS,79424,5000.00,unclassified,Not identified,Not identified,none,no rule matched,,,,,SA11C.4167
+lone_star_liberty,"WAY, STEPHEN",77056,5000.00,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,RETIRED,RETIRED,,,SA11AI.5004
+lone_star_liberty,"WERRA, NANCY",75093,5000.00,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,retired,retired,,,SA11AI.4575
+lone_star_liberty,WINSTEAD PC,75201,5000.00,unclassified,Not identified,Not identified,none,no rule matched,,,,,SA11C.4942
+lone_star_liberty,"ALPERT, ROBERT",75205,3299.30,not,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'CAPITAL',210 Capital,Manager,,,SA12.5150
+lone_star_liberty,"BADDERS, JEFF",75965,3299.30,not,Lawyers / Law Firms,Lawyers & Lobbyists,keyword,filed employer/occupation/name matched 'LAW FIRM',Badders Law Firm,Attorney,,,SA12.5339
+lone_star_liberty,"BASH, ZINA",78735,3299.30,not,Not identified,Not identified,none,no rule matched,Keller Postman LLC,Partner,,,SA12.5226
+lone_star_liberty,"BAXLEY, JEREMY",32225,3299.30,not,Not identified,Not identified,none,no rule matched,"TIC, Inc.",President,,,SA12.5148
+lone_star_liberty,"BLOCK, CARSON",78703,3299.30,not,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'CAPITAL',Muddy Waters Capital LLC,Investment Management,,,SA12.5216
+lone_star_liberty,"BLOOM, RONALD",90210,3299.30,not,Real Estate,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'REAL ESTATE',Crown Associates,Real Estate,,,SA12.5310
+lone_star_liberty,"BRIGGS TAFEL, LARA",75205,3299.30,not,Lawyers / Law Firms,Lawyers & Lobbyists,keyword,filed employer/occupation/name matched 'ATTORNEY',Self,Attorney,,,SA12.5281
+lone_star_liberty,"BROWN, ROB",79083,3299.30,unclassified,Ranching & Agriculture,Agribusiness,keyword,filed employer/occupation/name matched 'RANCHING',Self-Employed,Ranching,,,SA12.5312
+lone_star_liberty,"BURCIAGA, GILBERT",78746,3299.30,broad,"Energy, other",Energy & Natural Resources,tier,broad energy tier from sector_read.py,Arm Energy LLC,Board member,keyword 'Energy',keyword,SA12.5177
+lone_star_liberty,"CASH, ASHLEY",79424,3299.30,not,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'INVESTMENTS',"CX5 Partners, LLC",Investments,,,SA12.5353 SA12.5356
+lone_star_liberty,CITIZENS UNITED POLITICAL VICTORY FUND,20003,3299.30,unclassified,Candidate & Party Committees,Ideological/Single-Issue,keyword,filed employer/occupation/name matched 'VICTORY',,,,,SA12.5391
+lone_star_liberty,"COOLEY, CLAY",75015,3299.30,not,Car Dealers,Transportation,keyword,filed employer/occupation/name matched 'AUTO',Cooley Auto Group,Owner,,,SA12.5245
+lone_star_liberty,"COOPER, GARY",37215,3299.30,not,Construction & Contractors,Construction,keyword,filed employer/occupation/name matched 'STEEL',Cooper Steel,Ceo,,,SA12.5376
+lone_star_liberty,"COOPER, JOHNSON",37220,3299.30,not,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'CAPITAL',Cooper Capital,Executive,,,SA12.5386
+lone_star_liberty,"COOPER, TERRI",37215,3299.30,not,Not identified,Not identified,none,no rule matched,Delta,Flight Attendant,,,SA12.5378
+lone_star_liberty,COPART INC POLITICAL ACTION COMMITTEE COPART PAC,75254,3299.30,not,Not identified,Not identified,none,no rule matched,,,,,SA12.5289
+lone_star_liberty,"DEBUSK, PATRICK",77005,3299.30,not,Not identified,Not identified,none,no rule matched,USADeBusk,Ceo,,,SA12.5201
+lone_star_liberty,"DISIERE, DAVID",76092,3299.30,unclassified,Not identified,Not identified,none,no rule matched,Entrepreneur,Entrepreneur,,,SA12.5364
+lone_star_liberty,"DSOUZA, DEBORAH",77382,3299.30,not,Not identified,Not identified,none,no rule matched,DJD Creative LLC,Producer,,,SA12.5285
+lone_star_liberty,"ELSWICK, ROGER",77068,3299.30,not,Car Dealers,Transportation,keyword,filed employer/occupation/name matched 'AUTO',Community Auto Group,Dealer,,,SA12.5279
+lone_star_liberty,"EWING, FINLEY",75024,3299.30,not,Car Dealers,Transportation,keyword,filed employer/occupation/name matched 'AUTO',EWING AUTO,,,,SA12.5232
+lone_star_liberty,"GARVER, C M",77055,3299.30,not,Real Estate,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'REAL ESTATE',Garver Real Estate,President,,,SA12.5239
+lone_star_liberty,"GILLIAM, FROSTY",79768,3299.30,broad,"Energy, other",Energy & Natural Resources,tier,broad energy tier from sector_read.py,"Aghorn Energy, Inc.",President,keyword 'Energy',keyword,SA12.5271
+lone_star_liberty,"HANKAMER, EMERSON",77056,3299.30,not,Not identified,Not identified,none,no rule matched,Vacations To Go,Ceo,,,SA12.5183
+lone_star_liberty,"HERNANDEZ, MICHAEL",76109,3299.30,not,Car Dealers,Transportation,hand,filed employer D&M Leasing (auto leasing),Vehicle Leasing,Ceo,,,SA12.5249
+lone_star_liberty,"HININGER, DAMON",37027,3299.30,not,Not identified,Not identified,none,no rule matched,CoreCivic,Executive,,,SA12.5273
+lone_star_liberty,"HOLLINGSWORTH, GARY",76092,3299.30,not,Not identified,Not identified,none,no rule matched,Total Wound LLC,Owner,,,SA12.5306
+lone_star_liberty,"HOPPER, AUSTIN",75205,3299.30,not,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'CAPITAL',AWH Capital LP,Portfolio Manager,,,SA12.5189
+lone_star_liberty,"HURT, SHERRY",79763,3299.30,not,Not identified,Not identified,none,no rule matched,Pbp,Sales & Promotion,,,SA12.5269
+lone_star_liberty,"ISBELL, JJ",77508,3299.30,not,Not identified,Not identified,none,no rule matched,Tte,President,,,SA12.5236
+lone_star_liberty,"ISOM, CLAYTON",75205,3299.30,not,Not identified,Not identified,none,no rule matched,"CBI Interests, LLC",Ceo,,,SA12.5296
+lone_star_liberty,"IVY, R",75201,3299.30,not,Not identified,Not identified,none,no rule matched,Heritage Auctions,"Cofounder, Cochairman, and CEO",,,SA12.5170
+lone_star_liberty,"JOHNSTONE, GORDY",51503,3299.30,not,Health Professionals,Health,keyword,filed employer/occupation/name matched 'M D',Midwestern Equipment,M/D,,,SA12.5366
+lone_star_liberty,"JUNCOSA, MARK",98199,3299.30,not,Tech & Internet,Communications/Electronics,keyword,filed employer/occupation/name matched 'SPACEX',Spacex,Engineer,,,SA12.5164
+lone_star_liberty,"KENDRICK, RANDY",75201,3299.30,not,Not identified,Not identified,none,no rule matched,Xebec,Ceo,,,SA12.5308
+lone_star_liberty,"LANE, BRITT",76126,3299.30,not,Not identified,Not identified,none,no rule matched,"Bobby Cox Companies, Inc",Executive,,,SA12.5261
+lone_star_liberty,"LEHMANN, ROBERT",75965,3299.30,not,Health Professionals,Health,keyword,filed employer/occupation/name matched 'PHYSICIAN',Self-Employed,Physician,,,SA12.5343
+lone_star_liberty,"LEININGER, JAMES",78230,3299.30,unclassified,Health Services & Pharmaceuticals,Health,hand,filed employer Kinetic Concepts (medical devices),Entrepreneur,Entrepreneur,,,SA12.5156
+lone_star_liberty,"LISTENGART, JOSEPH",77024,3299.30,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,Retired,Retired,,,SA12.5172
+lone_star_liberty,"LORBER, HOWARD",33140,3299.30,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,Retired,Retired,,,SA12.5154
+lone_star_liberty,"LOTT, DALTON",75138,3299.30,not,Not identified,Not identified,none,no rule matched,Lott Companies,Ceo,,,SA12.5174
+lone_star_liberty,"LYNCH, GLENN",76179,3299.30,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,Retired,Retired,,,SA12.5251
+lone_star_liberty,"MANNERS, MICHAEL",77303,3299.30,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,Retired,Retired,,,SA12.5351
+lone_star_liberty,"MILLER, ANDREW",37215,3299.30,unclassified,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'INVESTOR',Self-Employed,Private Investor,,,SA12.5158
+lone_star_liberty,"MITCHELL, N",75205,3299.30,not,Not identified,Not identified,none,no rule matched,TRANS ATLANTIC,CEO,,,SA12.5358
+lone_star_liberty,"MITZNER, IRA",77010,3299.30,not,Real Estate,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'DEVELOPMENT',RIDA Development,President and CEO,,,SA12.5211
+lone_star_liberty,"MONK, MICHAEL",77040,3299.30,not,Banking & Finance,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'FINANCE',Amerisource,Finance,,,SA12.5205
+lone_star_liberty,"MORGAN, TROY",75234,3299.30,not,Not identified,Not identified,none,no rule matched,Structure Commercial,Partner,,,SA12.5318
+lone_star_liberty,"MULVIHILL, JAMES",80121,3299.30,not,Real Estate,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'REAL ESTATE',Speed Bay Warehouse Solutions,Real Estate,,,SA12.5335
+lone_star_liberty,"NOVIK, JAY",78703,3299.30,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,Retired,Retired,,,SA12.5397
+lone_star_liberty,"PARKER, ROBERT",78469,3299.30,not,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'HOLDINGS',R.E.P. Holdings,Chairman,,,SA12.5185
+lone_star_liberty,"PEACOCK, DAVID",77024,3299.30,unclassified,Not identified,Not identified,none,no rule matched,Entrepreneur,Entrepreneur,,,SA12.5179
+lone_star_liberty,"PEREZ, NOLAN",78550,3299.30,not,Health Professionals,Health,keyword,filed employer/occupation/name matched 'PHYSICIAN',Texas Digestive Specialists,Physician,,,SA12.5207 SA12.5212
+lone_star_liberty,"PETTY, SCOTT",78209,3299.30,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,Retired,Retired,,,SA12.5168
+lone_star_liberty,"PITTS, ANDY",78733,3299.30,not,Not identified,Not identified,none,no rule matched,"API, Inc",Ceo,,,SA12.5322
+lone_star_liberty,"RALSTON, SHANNON",78257,3299.30,not,Not identified,Not identified,none,no rule matched,Asi,Ceo,,,SA12.5199
+lone_star_liberty,"RIGEL, BETH",81657,3299.30,not,Not identified,Not identified,none,no rule matched,Self-Employed,Dermatologist,,,SA12.5162
+lone_star_liberty,"ROGERS, DALE",76132,3299.30,not,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'WEALTH',Rogers Wealth Group,Chairman,,,SA12.5228
+lone_star_liberty,"SADEGHI, OMID",77077,3299.30,not,Not identified,Not identified,none,no rule matched,,LEAD RESEARCH SCIENTIST,,,SA12.5181
+lone_star_liberty,"SARGENT, RICHARD",89135,3299.30,not,Real Estate,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'REALTOR',Self-Employed,Realtor,,,SA12.5324
+lone_star_liberty,"SAULSBURY, AMELIA",79762,3299.30,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,Retired,Retired,,,SA12.5399
+lone_star_liberty,"SCOTT, WILLIAM",77627,3299.30,not,Transportation & Rail,Transportation,hand,filed employer Trans-Global Solutions Group,"Trans-Global Solutions, Inc.",Executive,,,SA12.5345
+lone_star_liberty,"SHEARS, CHARLES",77027,3299.30,not,Real Estate,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'REALTY',SDI Realty,Commercial Developer,,,SA12.5320
+lone_star_liberty,"SIGNORELLI, DANIEL",77380,3299.30,not,Real Estate,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'REAL ESTATE',The Signorelli Company,Real Estate,,,SA12.5263
+lone_star_liberty,"SMITH, JULE",27608,3299.30,not,Construction & Contractors,Construction,keyword,filed employer/occupation/name matched 'CONSTRUCTION',Construction Partners Inc,Ceo,,,SA12.5275
+lone_star_liberty,"SPRINGER, JULIE",78746,3299.30,not,Lawyers / Law Firms,Lawyers & Lobbyists,keyword,filed employer/occupation/name matched 'ATTORNEY',SELF,ATTORNEY,,,SA12.5218
+lone_star_liberty,"STAI, DIAN",79601,3299.30,unclassified,Health Services & Pharmaceuticals,Health,hand,Owen Healthcare fortune (oil-tier basis),Retired,Retired,,,SA12.5393
+lone_star_liberty,"STEIN, SHELDON",75220,3299.30,not,"Retail, Food & Beverage",Misc Business,hand,filed employer Glazer's Distributors (wine and spirits),Glazers Beer,Ceo,,,SA12.5243
+lone_star_liberty,TOTAL WOUND LLC,76092,3299.30,unclassified,Not identified,Not identified,none,no rule matched,,,,,SA12.5304
+lone_star_liberty,"WASEK, DONALD",78669,3299.30,not,"Retail, Food & Beverage",Misc Business,keyword,filed employer/occupation/name matched 'BUC EE',Buc-ee's,Business,,,SA12.5209
+lone_star_liberty,"WEST, DENZEL",79707,3299.30,strict,Oil & Gas,Energy & Natural Resources,tier,strict oil-and-gas tier from sector_read.py,Admiral Permian,Ceo,keyword 'Permian',keyword,SA12.5241
+lone_star_liberty,"WILLIAMSON, BARRY",78746,3299.30,not,Not identified,Not identified,none,no rule matched,Lost Forty Operations LLC,Owner,,,SA12.5277
+lone_star_liberty,"WOLFE, STEVEN",78628,3299.30,not,Real Estate,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'PROPERTY',Wolfe Property Holdings,Owner,,,SA12.5160
+lone_star_liberty,"ISAACSON, RICK",37066,3064.10,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,Retired,Retired,,,SA12.5333
+lone_star_liberty,ADDISON HOMES LLC,79424,3000.00,unclassified,Home Builders,Construction,keyword,filed employer/occupation/name matched 'HOMES',,,,,SA11AI.4141
+lone_star_liberty,"ANDRO, RICHARD",75229,3000.00,not,Not identified,Not identified,none,no rule matched,Refund Advisory Corp,PRESIDENT,,,SA11AI.4374
+lone_star_liberty,"TETAJ, LODOVIK",79605,3000.00,not,Not identified,Not identified,none,no rule matched,Little Italy,,,,SA11AI.4975
+lone_star_liberty,"WIEGERT, ZACH",68154,2639.44,not,Not identified,Not identified,none,no rule matched,Goldenrod Companies,Managing Principal,,,SA12.5230
+lone_star_liberty,(unitemized and other receipts),,2360.80,unclassified,Unitemized (FEC),Not identified,total,published committee total minus itemized donor rows,,,,,
+lone_star_liberty,"ARYAN, SAEID",76092,2000.00,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,Self,Self,,,SA11AI.4874
+lone_star_liberty,"GRUNDHOFER, JERRY",84098,2000.00,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,RETIRED,RETIRED,,,SA11AI.5018 SA11AI.5020
+lone_star_liberty,"LINDBERG, DAVID",64155,2000.00,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,retired,retired,,,SA11AI.4950
+lone_star_liberty,"SIEGEL, JACQUELINE",34786,2000.00,not,Not identified,Not identified,none,no rule matched,MRS. FLORIDA AMERICA,DIRECTOR,,,SA11AI.4143
+lone_star_liberty,THE GOAT TAVERN,76262,2000.00,unclassified,Not identified,Not identified,none,no rule matched,,,,,SA11C.4930
+lone_star_liberty,"ROTAN, MATTHEW",77024,1850.00,not,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'CAPITAL',MARBLE CAPITAL,COFOUNDER & MANAGING PRINCIPAL,,,SA11AI.4635 SA11AI.4145
+lone_star_liberty,"MULLER, RICHARD",77459,1154.75,not,Not identified,Not identified,none,no rule matched,Muller Law Group,Owner,,,SA12.5224
+lone_star_liberty,"GARIBAY, RUBEN",78255,1014.53,not,Transportation & Rail,Transportation,hand,filed employer Puerto Verde (international trade bridge),Select Dedicated Solutions,Member,,,SA12.5195
+lone_star_liberty,"HANCE, KENT",79409,1000.00,not,Lawyers / Law Firms,Lawyers & Lobbyists,keyword,filed employer/occupation/name matched 'ATTORNEY',SELF,ATTORNEY,,,SA11AI.5140
+lone_star_liberty,"LELCHLITER, JON",75703,1000.00,not,Not identified,Not identified,none,no rule matched,Total Care,CEO,,,SA11AI.4968
+lone_star_liberty,"LOONAM, TIMOTHY",78746,1000.00,not,Insurance,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'INSURANCE',TCGT AGENCY INC,INSURANCE,,,SA11AI.4987
+lone_star_liberty,"RUFF, MARK",75219,1000.00,not,Hospitals & Nursing Homes,Health,keyword,filed employer/occupation/name matched 'HCA',HCA Healthcare Physician Services,Director of Phyiscian Services,,,SA11AI.4381
+lone_star_liberty,"ALVIS, STEVEN",77040,989.79,not,Real Estate,"Finance, Insurance & Real Estate",hand,filed employer NewQuest Properties,New Quest,C.R.E. Developer,,,SA12.5283
+lone_star_liberty,"ASHTON, ANDY",78641,989.79,not,Hospitals & Nursing Homes,Health,keyword,filed employer/occupation/name matched 'NURSING',The Enaign Group,Skilled Nursing Facilities,,,SA12.5203
+lone_star_liberty,"BARKLEY, ROBERT",78624,989.79,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,Retired,Retired,,,SA12.5253
+lone_star_liberty,"BLOCKER, TREY",78624,989.79,not,Lawyers / Law Firms,Lawyers & Lobbyists,keyword,filed employer/occupation/name matched 'ATTORNEY',Stalwart Strategies Inc,Attorney,,,SA12.5287
+lone_star_liberty,"BOUMA, BRAD",79073,989.79,not,Not identified,Not identified,none,no rule matched,Legacy Farms,Owner,,,SA12.5370
+lone_star_liberty,"BROWN, BILLY",77479,989.79,not,Not identified,Not identified,none,no rule matched,BLUE LINE MANUFACTURING,CEO,,,SA12.5384
+lone_star_liberty,"CALDWELL, FRED",77429,989.79,not,Not identified,Not identified,none,no rule matched,Caldwell Companies,Ceo,,,SA12.5302
+lone_star_liberty,"CALLEWART, CRAIG",75225,989.79,not,Health Professionals,Health,keyword,filed employer/occupation/name matched 'SURGEON',Cccmdpa,Surgeon,,,SA12.5328
+lone_star_liberty,"COX, BOBBY",76109,989.79,not,"Retail, Food & Beverage",Misc Business,hand,"Bobby Cox Companies: Fort Worth restaurant group (Rosa's Cafe, Taco Villa), oil-tier basis","Cox Companies, Inc.",President,,,SA12.5267
+lone_star_liberty,"DANIELS, GERALD",32225,989.79,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,Retired,Retired,,,SA12.5337
+lone_star_liberty,"DAVIS, WILLIAM",79424,989.79,not,Not identified,Not identified,none,no rule matched,Self-Employed,Expert,,,SA12.5382
+lone_star_liberty,"DONOVAN, LIAM",85719,989.79,not,Not identified,Not identified,none,no rule matched,Liam Donovan,Trader,,,SA12.5234
+lone_star_liberty,"DUNKELMAN, DANIEL",90048,989.79,not,Health Professionals,Health,keyword,filed employer/occupation/name matched 'MEDICAL GROUP',Cedars Towers Surgical medical group .,Physician.,,,SA12.5191
+lone_star_liberty,"FASKEN MANAGEMENT, LLC",79707,989.79,strict,Oil & Gas,Energy & Natural Resources,tier,strict oil-and-gas tier from sector_read.py,,,"Fasken Oil and Ranch, Midland producer [matched on name]",entity,SA12.5247
+lone_star_liberty,"FRANKLIN, LYNNE",77447,989.79,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,Retired,Retired,,,SA12.5314
+lone_star_liberty,"HARTLEY, MICHAEL",75208,989.79,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,Retired,Retired,,,SA12.5300
+lone_star_liberty,"HOOPER, JAMES",75231,989.79,not,Not identified,Not identified,none,no rule matched,Us Lbm,SVP of M&A,,,SA12.5389
+lone_star_liberty,"HORD, WILLIS",79701,989.79,not,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'INVESTMENT',Hedlok Investment Group LLC,Partner,,,SA12.5294
+lone_star_liberty,"HUTCHINSON, BRAD",77024,989.79,not,Banking & Finance,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'BANK',Bank of America,Vice Chairman,,,SA12.5193
+lone_star_liberty,"JOHNSTON, BRYAN",77450,989.79,not,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'PRIVATE EQUITY',SELF,PRIVATE EQUITY,,,SA12.5341
+lone_star_liberty,"JONES, JONATHAN",77019,989.79,not,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'CAPITAL',Jones Capital,Ceo,,,SA12.5166
+lone_star_liberty,"KEMMERER, JOHN",83002,989.79,not,Not identified,Not identified,none,no rule matched,Kemmerer Management Corp,Executive,,,SA12.5220
+lone_star_liberty,"KERR, JAMES",77713,989.79,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,Retired,Retired,,,SA12.5347
+lone_star_liberty,"LEWIS, EDWARD",90067,989.79,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,Retired,Retired,,,SA12.5197
+lone_star_liberty,"MANRIQUE, CARLOS",78504,989.79,not,Health Professionals,Health,keyword,filed employer/occupation/name matched 'PHYSICIAN',Manrique Custom Vision,Physician,,,SA12.5146
+lone_star_liberty,"MCDONALD, ERIC",79424,989.79,not,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'CAPITAL',McDonald Capital Management,Investment Advisers,,,SA12.5372
+lone_star_liberty,"MCDOUGAL, MARC",79401,989.79,not,Real Estate,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'REAL ESTATE',Real Estate,Real Estate,,,SA12.5395
+lone_star_liberty,"MCFADDEN, CAROL",77027,989.79,not,Not identified,Not identified,none,no rule matched,Self-Employed,Manufacturing,,,SA12.5222
+lone_star_liberty,"MJERASHAJ, GENTJAN",10709,989.79,not,Construction & Contractors,Construction,keyword,filed employer/occupation/name matched 'CONSTRUCTION',LOD CONSTRUCTION,,,,SA12.5316
+lone_star_liberty,"NEWKUMET, TRAVIS",79702,989.79,strict,Oil & Gas,Energy & Natural Resources,tier,strict oil-and-gas tier from sector_read.py,Regions Permian LLC,Ceo,keyword 'Permian',keyword,SA12.5214
+lone_star_liberty,"NEWKUMET, WAYNE",79702,989.79,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,Retired,Retired,,,SA12.5291
+lone_star_liberty,NEXTDECADE CORPORATION POLITICAL ACTION COMMITTEE,77002,989.79,strict,Oil & Gas,Energy & Natural Resources,tier,strict oil-and-gas tier from sector_read.py,,,midstream / LNG [matched on name],entity,SA12.5355
+lone_star_liberty,"PENDLETON, CLINTON",77383,989.79,not,Real Estate,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'DEVELOPMENT',"Brookline Development Co., Inc.",Real Estate,,,SA12.5331
+lone_star_liberty,"PETERSON, ROBERT",75225,989.79,not,Not identified,Not identified,none,no rule matched,All My Sons,Ceo,,,SA12.5187
+lone_star_liberty,"PRIEFERT, WILLIAM",75455,989.79,not,Not identified,Not identified,none,no rule matched,Priefert Manufacturing,Ceo,,,SA12.5298
+lone_star_liberty,"RAMIREZ, JAIME",78505,989.79,not,Not identified,Not identified,none,no rule matched,J Ramco,Executive,,,SA12.5143
+lone_star_liberty,"TURNER, JIM",75225,989.79,not,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'HOLDINGS',TURNER HOLDINGS,PRESIDENT,,,SA12.5380
+lone_star_liberty,"WHITE, ALAN",75201,989.79,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,Retired,Retired,,,SA12.5326
+lone_star_liberty,"WILKINSON, BRUCE",33487,989.79,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,Retired,Retired,,,SA12.5368
+lone_star_liberty,"WILKINSON, SUSANNE",33487,989.79,not,Education & Nonprofits,Other,keyword,filed employer/occupation/name matched 'FOUNDATION',WILKINSON FAMILY FOUNDATION,VP,,,SA12.5360
+lone_star_liberty,"WILLIAMSON, ASHLIN",78746,989.79,not,Lawyers / Law Firms,Lawyers & Lobbyists,keyword,filed employer/occupation/name matched 'ATTORNEY',SELF,ATTORNEY,,,SA12.5374
+lone_star_liberty,"WILMETH, STEVE",75605,989.79,not,Manufacturing & Industry,Misc Business,keyword,filed employer/occupation/name matched 'INDUSTRIES',Scot Industries,President And Owner,,,SA12.5349
+lone_star_liberty,"WRIGHT, WB",79423,989.79,not,Not identified,Not identified,none,no rule matched,ASCO Equipment Company,Engineer/CEO,,,SA12.5362
+lone_star_liberty,ABS ELECTRIC,75027,500.00,broad,"Energy, other",Energy & Natural Resources,tier,broad energy tier from sector_read.py,,,keyword 'ELECTRIC',keyword,SA11AI.4681
+lone_star_liberty,"DEVINO, SPENCER",75454,500.00,not,Securities & Investment,"Finance, Insurance & Real Estate",keyword,filed employer/occupation/name matched 'HOLDINGS',Core Specialty Insurance Holdings,Cloud Engineering Lead,,,SA11AI.4586 SA11AI.4583
+lone_star_liberty,"PELLEGRINO, MICHAEL",78258,500.00,not,Health Services & Pharmaceuticals,Health,keyword,filed employer/occupation/name matched 'MEDICAL',ICON plc,medical communications,,,SA11AI.5132
+lone_star_liberty,"PRICE, MARGARET",77584,500.00,unclassified,Retired or Homemaker (employer not given),Not identified,filed,filed employer and occupation are placeholders,RETIRED,RETIRED,,,SA11AI.4966
+lone_star_liberty,"DICKSON, ROBERT",79707,329.93,strict,Oil & Gas,Energy & Natural Resources,tier,strict oil-and-gas tier from sector_read.py,"Fasken Management, LLC",Partner,"Fasken Oil and Ranch, Midland producer [matched on employer]",entity,SA12.5257
+lone_star_liberty,"DICKSON, ROGER",79707,329.93,strict,Oil & Gas,Energy & Natural Resources,tier,strict oil-and-gas tier from sector_read.py,"Fasken Management, LLC",Partner,"Fasken Oil and Ranch, Midland producer [matched on employer]",entity,SA12.5255
+lone_star_liberty,"DICKSON, SCOTT",79707,329.93,strict,Oil & Gas,Energy & Natural Resources,tier,strict oil-and-gas tier from sector_read.py,"Fasken Management, LLC",Partner,"Fasken Oil and Ranch, Midland producer [matched on employer]",entity,SA12.5259

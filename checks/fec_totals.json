@@ -1,0 +1,10 @@
+{
+  "retrieved": "2026-10-29",
+  "note": "DEMO_KEY hit OVER_RATE_LIMIT (40 calls/hour) after the C00901918 call, so only that committee's /totals/ response came from the API. The other two figures were read from the fec.gov committee pages, which render the same /totals/ data in the browser. Re-fetch from the API when the limit resets to replace them.",
+  "C00901918": {"receipts": "22319359.05", "contributions": "21443989.98", "individual_itemized_contributions": "14918941.35", "individual_unitemized_contributions": "6070898.63", "coverage_start_date": "2025-04-01", "coverage_end_date": "2026-10-14", "last_report_type_full": "PRE-GENERAL",
+    "source": "api.open.fec.gov/v1/committee/C00901918/totals/?cycle=2026 (DEMO_KEY), values as printed in session"},
+  "C00952218": {"receipts": "12047495.63", "contributions": "12047495.63", "individual_itemized_contributions": "11917307.63", "individual_unitemized_contributions": "2188.00", "other_committee_contributions": "128000.00",
+    "source": "https://www.fec.gov/data/committee/C00952218/?cycle=2026&tab=filings (browser)"},
+  "C00901223": {"receipts": "29696321.83", "contributions": "29358517.83", "individual_contributions": "11056517.83", "other_committee_contributions": "18302000.00",
+    "source": "https://www.fec.gov/data/committee/C00901223/?cycle=2026&tab=filings (browser)"}
+}

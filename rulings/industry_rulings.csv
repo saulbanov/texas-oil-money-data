@@ -1,0 +1,236 @@
+official,donor_key,industry,basis
+# Industry hand rulings for the 2025-26 donor views. donor_key = NAME|zip5 or NAME|*; official = abbott, patrick, paxton_senate, paxton_victory, lone_star_liberty, or *. industry must be one of the SECTOR keys in industry_rank.py.
+# --- 2026-10-30 hand rulings, largest non-oil donors in the 2025-26 views. Basis cites the filed employer where it suffices; otherwise the oil-tier ruling or public record named.
+*,"MUSK, ELON|*",Tech & Internet,filed employer Space X & Tesla Motors; plan ruling names SpaceX/Tesla
+*,ELON MUSK REVOCABLE TRUST|*,Tech & Internet,"Musk trust (SpaceX, Tesla)"
+*,ELON MUSK REVOCABLE TRUST|*,Tech & Internet,"Musk trust (SpaceX, Tesla)"
+*,"FISHER, KENNETH|*",Securities & Investment,filed employer Fisher Investments
+*,TEXAS REPUBLICAN LEADERSHIP FUND|*,Insurance,"Alex Fairly vehicle; Texas Tribune 2026-10-06 names Fairly, insurance, as the giver"
+*,DEALON LLC|*,Insurance,Alex Fairly vehicle; same basis as Texas Republican Leadership Fund
+*,RGA RIGHT DIRECTION PAC|*,Candidate & Party Committees,Republican Governors Association committee
+*,"GEBBIA, JOE|*",Tech & Internet,Airbnb co-founder (filed employer AIRBNB to Paxton Victory)
+*,"GEBBIA, JOSEPH|*",Tech & Internet,Airbnb co-founder (filed employer AIRBNB)
+*,"KNIGHT, PHILIP|*","Retail, Food & Beverage","Phil Knight, Nike co-founder (apparel); filed Retired; public record"
+*,"ROSKI, EDWARD|*",Real Estate,filed employer Majestic Realty Co.
+*,"DOGGETT, WILLIAM|*",Construction & Contractors,filed employer Doggett Equipment Services Group (construction and industrial equipment dealer)
+*,"NAU III, JOHN|*","Retail, Food & Beverage","Silver Eagle Distributors (beer distributor), filed employer"
+*,"NAU III, JOHN L|*","Retail, Food & Beverage",Silver Eagle Distributors (beer distributor)
+*,"DWYER, JOHN|*",Banking & Finance,filed employer Capital Funding Group (health-care real estate lender)
+*,"ADELSON, MIRIAM|*",Casinos / Gambling,Las Vegas Sands controlling family; filed occupation doctor; public record
+*,"COX, BOBBY|*","Retail, Food & Beverage","Bobby Cox Companies: Fort Worth restaurant group (Rosa's Cafe, Taco Villa), oil-tier basis"
+*,"PEROT JR., H. ROSS|*",Real Estate,filed employer Hillwood Development Corp.
+*,"PEROT JR, H ROSS|*",Real Estate,Hillwood Development
+*,"JONES, JERRAL|*",Recreation / Live Entertainment,"filed employer Dallas Cowboys, owner; his oil and gas interests (Comstock) are not on this filing"
+*,"JONES, JOHN|75019",Recreation / Live Entertainment,"filed employer Dallas Cowboys, president"
+*,"JONES, JOHN|*",Recreation / Live Entertainment,"filed employer DALLAS COWBOYS, president"
+*,"PRICE, MACKENZIE|*",Education & Nonprofits,"filed employer Alpha School (private school), co-founder"
+*,THE CHICKASAW NATION|*,Casinos / Gambling,tribal government
+*,"WOOD, ANTHONY|*",Tech & Internet,"filed employer Roku, founder"
+*,"YASS, JEFF|*",Securities & Investment,"Susquehanna International Group (SIG), filed employer"
+*,"ACOSTA, ARCILIA|*",Construction & Contractors,filed employer Carcon Industries (construction)
+*,"WEISMAN, JOHN|*",Construction & Contractors,"filed employer Hunter Industries, highway contractor"
+*,"BELLINGER, JOHN|*",Business Services & Associations,filed employer Food Safety Net Services (food-safety testing laboratory)
+*,MAYFAIR INVESTMENTS|*,Construction & Contractors,"Albritton family (RCL Services, railroad construction), oil-tier basis; weak"
+*,"ALBRITTON, BOB|*",Construction & Contractors,"filed employer RCL Services (railroad construction), chairman"
+*,"ANDRESEN, MATTHEW|*",Securities & Investment,filed employer Headlands Technologies (trading firm)
+*,"APLIN, ARCH|*","Retail, Food & Beverage",filed employer Buc-ee's Ltd. (convenience stores)
+*,"PEINADO, FRANK|*",Construction & Contractors,filed employer FA Peinado LLC (construction)
+*,"FERTITTA, PAIGE|*","Retail, Food & Beverage","filed employer Fertitta Entertainment (Landry's restaurants, Golden Nugget)"
+*,"FERTITTA, PATRICK|*","Retail, Food & Beverage",filed employer Fertitta Entertainment
+*,"CROW, HARLAN|*",Real Estate,filed employer Crow Holdings (real estate)
+*,"JAIN, ANURAG|*",Securities & Investment,filed employer Perot Jain LP (venture investing)
+*,SRR RANCHES LLC|*,Ranching & Agriculture,Sullivan family cattle ranch (career ruling)
+*,"TROUTT, KENNY|*",Securities & Investment,filed employer Mount Vernon Investments; fortune from Excel Communications (telecom)
+*,"TROUTT, LISA|*",Securities & Investment,"spouse of Kenny Troutt, Mount Vernon Investments"
+*,"BODENSTEDT, JAMES|*","Retail, Food & Beverage",filed employer MUY Brands (restaurant franchisee)
+*,"SEWELL, CARL|*",Car Dealers,filed employer Sewell Automotive Companies
+*,"SEWELL, COLLIN|*",Car Dealers,filed employer Sewell Family of Dealers
+*,"SWINBANK, JOSEPH|*",Business Services & Associations,filed employer Sprint Waste Services (waste hauling)
+*,"BLAKE, GARY|*",Hospitals & Nursing Homes,filed employer Creative Solutions in Healthcare (nursing-home operator)
+*,"HERNANDEZ, MICHAEL|*",Car Dealers,filed employer D&M Leasing (auto leasing)
+*,"LUBETZKY, DANIEL|*","Retail, Food & Beverage","filed employer Kind LLC (snack foods), founder"
+*,"DUDA, FRITZ|*",Real Estate,filed employer Fritz Duda Company (real estate)
+*,"DUDA, MARY|*",Real Estate,filed employer Fritz Duda Company
+abbott,"BROWN, THOMAS|94105",Tech & Internet,"filed employer Anthropic, co-founder"
+*,CLAY COOLEY INVESTMENTS|*,Car Dealers,"Clay Cooley, auto dealer"
+*,"EPSTEIN, ROBERT|*",Recreation / Live Entertainment,"filed employer Circuit of the Americas (racetrack), chairman"
+*,"HOCK, STACY|*",Securities & Investment,Hock family wealth from Steve Hock's hedge fund (oil-tier basis)
+abbott,"PORTER, MICHAEL|*",Securities & Investment,filed occupation Investments (Cross Creek Ranch); source of wealth not established
+*,"PYLE, DAVID|*",Education & Nonprofits,"filed employer American Career College (for-profit college), founder"
+*,TEXAS SANDS PAC|*,Casinos / Gambling,Las Vegas Sands Texas PAC
+*,"ALVIS, STEVEN|*",Real Estate,filed employer NewQuest Properties
+*,"JAFFE, JORDAN|*",Transportation & Rail,filed employer Resort Jet Center / Spectre Air Capital (aviation)
+*,BORDER HEALTH PAC|*,Health Professionals,Rio Grande Valley physicians' PAC (name)
+*,"BEAL, ANDREW|*",Banking & Finance,filed employer Beal Bank
+*,"BREYER, JAMES|*",Securities & Investment,filed employer Breyer Capital (venture)
+*,GULF STATES TOYOTA INC STATE PAC|*,Car Dealers,Gulf States Toyota (distributor)
+*,"LOBB, LAWRENCE|*",Car Dealers,filed employer Pat Lobb Toyota
+*,"TORN, SUSAN AND SAM|*",Recreation / Live Entertainment,filed employer Camp Ozark (summer camp)
+*,"TORN, ROLAND|*",Recreation / Live Entertainment,filed employer Camp Ozark
+*,"TRAYLOR, RICHARD|*",Ranching & Agriculture,rancher (filed; career ruling)
+*,"TURNER, FREDERICK|*",Health Services & Pharmaceuticals,"filed employer Curative (health company), CEO"
+*,"WINN, STEPHEN|*",Tech & Internet,filed employer RealPage (property-management software)
+*,"FORD, CURTIS|*",Business Services & Associations,filed employer LoneStar Logos & Signs
+*,"CURRY, PATRICK|*",Securities & Investment,filed employer PJC Investments
+*,"KAHLIG, CLARENCE|*",Car Dealers,filed employer Kahlig Auto Group
+*,"FARMER, GARY|*",Real Estate,filed employer Heritage Title Company of Austin (title insurance and real estate)
+*,"SCOTT, RICHARD|*",Transportation & Rail,filed employer Trans-Global Solutions (industrial and rail services)
+*,"SCOTT, WILLIAM|*",Transportation & Rail,filed employer Trans-Global Solutions Group
+*,ANTHROPIC PBC POLITICAL ACTION COMMITTEE|*,Tech & Internet,Anthropic PAC
+*,"DHAROD, SUNIL|*","Retail, Food & Beverage",filed employer SSCP Management (restaurant franchisee)
+*,"HALBERT, DAVID|*",Health Services & Pharmaceuticals,filed employer Caris Life Sciences
+*,"PERKINS, JAMES|*",Banking & Finance,"filed employer Citizens 1st Bank, president"
+*,"POPOLO, JOSEPH|*",Business Services & Associations,filed employer The Freeman Companies (event services); Charles & Potomac Capital
+*,RYAN TEXAS PAC|*,Business Services & Associations,Ryan LLC (tax services) PAC
+*,RYAN LLC PAC|*,Business Services & Associations,Ryan LLC (tax services) PAC
+*,"RYAN, GEORGE|*",Business Services & Associations,"filed employer Ryan LLC (tax services), chairman"
+*,"RIDGELY, GERALD|*",Business Services & Associations,filed employer Ryan LLC
+*,"TUCKER, BRADFORD|*",Construction & Contractors,filed employer Mustang Cat (Caterpillar equipment dealer)
+*,"WEEKLEY, RICHARD|*",Real Estate,filed employer Weekley Properties (real estate development)
+*,"BELL, PETER|*",Construction & Contractors,filed employer Cotton Holdings (disaster restoration)
+*,"FRANKLIN, LARRY|*",Business Services & Associations,retired Harte-Hanks chairman (marketing services)
+*,TEXAS REALTORS POLITICAL ACTION COMMITTEE|*,Real Estate,Texas Realtors PAC
+*,THE JASPERRUTH RANCH LLC|*,Ranching & Agriculture,"hunting ranch, Webb County (career ruling)"
+*,"WEAVER, RAD|*",Securities & Investment,filed employer CW Interests (investments)
+*,"AMERITEX PIPE AND PRODUCTS, LLC|*",Construction & Contractors,concrete pipe maker (oil-tier basis)
+*,"BIGLARI, SARDAR|*","Retail, Food & Beverage",filed employer Biglari Holdings (Steak n Shake)
+*,"KORENVAES, HARLAN|*",Securities & Investment,HBK Investments founder (hedge fund)
+*,"LEE, JAMES|*",Securities & Investment,filed employer Texas Stock Exchange
+*,"SPAMER, JOAQUIN|*",Transportation & Rail,filed employer Commodities Integrated Logistics
+*,"GUPTA, SATISH|*",Manufacturing & Industry,filed employer SB International Inc. (steel products distributor); not checked whether its line is oilfield pipe
+*,"U S ANESTHESIA PARTNERS OF TEXAS, PA|*",Health Professionals,anesthesia group
+*,"U S ANESTHESIA PARTNERS, INC PAC D/B/A USAP PAC|*",Health Professionals,anesthesia group PAC
+*,"RYDMAN, JOHN|*","Retail, Food & Beverage",filed employer Spec's (liquor stores)
+*,"ADAMS, PHILLIP|*",Insurance,"Phil Adams Company, Bryan insurance agency"
+*,"AGRESTI, JOSEPH|*",Car Dealers,auto dealer (oil-tier basis)
+*,"BENNETT, MONTGOMERY|*",Real Estate,filed employer Ashford Hospitality Trust (hotel REIT)
+*,"CARPENTER, BENJAMIN|*",Securities & Investment,filed employer Miramar Holdings (family office)
+*,"CHEN, FELIX|*",Manufacturing & Industry,"filed employer PAJ, Inc. (jewelry maker)"
+*,FRIENDS OF THE TEXAS TECH UNIVERSITY SYSTEM|*,Education & Nonprofits,university PAC
+*,FRIENDS OF THE TTU SYSTEM PAC|*,Education & Nonprofits,university PAC
+*,"GONSOULIN, AL|*",Transportation & Rail,"filed employer PHI Inc. (helicopter services, largely to offshore oil and gas); tier left as filed"
+*,"GREGORY, BOB|*",Business Services & Associations,filed employer Texas Disposal Systems (waste)
+*,"LEININGER, JAMES|*",Health Services & Pharmaceuticals,filed employer Kinetic Concepts (medical devices)
+*,"LIEMANDT, JOSEPH|*",Tech & Internet,filed employer Trilogy Enterprises (software)
+*,"MCLANE JR., DRAYTON|*","Retail, Food & Beverage",McLane Group (McLane Company grocery and food distribution)
+*,"MCLANE JR, DRAYTON|*","Retail, Food & Beverage",McLane Group
+*,"SEAY, GEORGE|*",Securities & Investment,filed employer Annandale Capital
+*,"GARIBAY, RUBEN|*",Transportation & Rail,filed employer Puerto Verde (international trade bridge)
+*,"MATITYAHU GABBAY, MAYA|*",Real Estate,"same donor as Gabbay, Maya (real estate)"
+*,"MCGUIRE, MICHAEL|*","Retail, Food & Beverage",filed employer Andrews Distributing (beer)
+*,"AUSTIN, EARL|*",Construction & Contractors,filed employer Quanta Services (utility and pipeline contractor)
+*,"LEDWELL, STEVE|*",Manufacturing & Industry,filed employer Ledwell and Son (trailer and truck-body maker)
+*,"PATTERSON, CHARLES|*",Lawyers / Law Firms,filed employer Nix Patterson (law firm)
+*,"EWING, ANTHONY|*",Manufacturing & Industry,filed employer Advanced Fixtures
+*,"FROST, HOLLOWAY|*",Tech & Internet,Texas Memory Systems founder (career ruling)
+*,"HIRSCH, LAURENCE|*",Securities & Investment,filed employer Highlander Partners (private equity)
+*,"CRAWFORD, SETH|*",Not identified,filed employer Crawford & Crawford Inc.; line not checked
+*,"AZIZ, MUHAMMAD|*",Lawyers / Law Firms,"Abraham Watkins (law firm), partner"
+*,"AGOSTO, BENNY|*",Lawyers / Law Firms,"Abraham Watkins (law firm), managing partner"
+*,"DEASON, DOUGLAS|*",Securities & Investment,Deason Capital Services (filed on other filings)
+*,"PICK, JACKI|*",Ideological & Single-Issue Groups,"Jacki Pick, conservative commentator and lawyer; filed self-employed research and education"
+*,"HEAVIN, H|*",Recreation / Live Entertainment,"Gary Heavin, Curves International (fitness franchise)"
+*,"HEAVIN, GARY|*",Recreation / Live Entertainment,filed employer Curves International (fitness franchise)
+*,"MARLING, ROBERT|*",Banking & Finance,Woodforest National Bank (filed employer)
+*,"DYER, DON|*","Retail, Food & Beverage",filed employer PJs of Texas (Papa John's franchisee); also Aminex Therapeutics
+*,SLF PAC|*,Candidate & Party Committees,"Senate Leadership Fund, Republican super PAC"
+*,PRESERVE TEXAS INC|*,Not identified,nonprofit that discloses no donors (pass-through); cannot be read by industry
+*,"KNUTZ, JONATHAN|*",Health Services & Pharmaceuticals,filed employer Legacy Medical Consultants (wound-care products)
+*,MAHA ACTION PAC|*,Ideological & Single-Issue Groups,MAHA Action (issue PAC)
+*,"MILTON, CHELSEY|*",Transportation & Rail,"spouse of Trevor Milton, Nikola (truck maker) founder"
+*,"MILTON, TREVOR|*",Transportation & Rail,"Trevor Milton, Nikola (truck maker) founder"
+*,BUCKEYE VICTORY ACTION INC|*,Candidate & Party Committees,Ohio Republican political committee (name)
+*,PAUL MCLAREN REVOCABLE TRUST|*,Construction & Contractors,Paul McLaren (Pogue Construction)
+*,"GEO REENTRY SERVICES, LLC|*",Business Services & Associations,GEO Group subsidiary (prison and reentry services)
+*,"SORKIN, FELIX|*",Manufacturing & Industry,filed employer General Technologies Inc.
+*,"DONDERO, JAMES|*",Securities & Investment,filed employer NexPoint Advisors
+*,EVEXIAS MANAGEMENT|*,Health Services & Pharmaceuticals,hormone-therapy clinic company (name)
+*,TEXANS FOR TRUTH AND LIBERTY PAC|*,Ideological & Single-Issue Groups,PAC; funders not established
+*,TEXANS FOR TRUTH & LIBERTY PAC|*,Ideological & Single-Issue Groups,PAC; funders not established
+*,"ABRAHAM, SALEM|*",Securities & Investment,Abraham Trading Co. (futures trading)
+*,SKINCURE ONCOLOGY LLC|*,Health Services & Pharmaceuticals,skin-cancer treatment company
+*,"AUNG, KATIE|*","Retail, Food & Beverage",filed employer Yummi Sushi
+*,NRSC|*,Candidate & Party Committees,National Republican Senatorial Committee
+*,"WINRED TECHNICAL SERVICES, LLC|*",Candidate & Party Committees,WinRed platform credit (conduit)
+*,"QIAO, TINGFU|*",Not identified,filed employer WAN Bridge; line not checked
+*,"DAVIS, ALEXANDER|*",Tech & Internet,filed employer Disruptive Tech
+*,"DAVIS, LINDSAY|*",Tech & Internet,"spouse of Alexander Davis (Disruptive Tech), same zip"
+*,TZEDEK PAC|*,Ideological & Single-Issue Groups,PAC (name)
+*,A&M POLITICAL ACTION COMMITTEE|*,Not identified,GPAC 59798; sponsor not found
+*,A&M PAC|*,Not identified,GPAC 59798; sponsor not found
+*,MISSION BUSINESS PAC|*,Not identified,GPAC 00087080; funders' line not established
+*,TEXAS FARM BUREAU AGFUND|*,Ranching & Agriculture,farm bureau PAC
+*,CATTLE RAISERS STATE PAC|*,Ranching & Agriculture,Texas and Southwestern Cattle Raisers PAC
+*,TSAPAC|*,Business Services & Associations,professional association PAC (architects)
+*,TBA BANK PAC STATE|*,Banking & Finance,Texas Bankers Association PAC
+*,HILLCO PAC|*,Lobbyists & Consultants,HillCo Partners lobby firm PAC
+*,AGC OF TEXAS PAC ACCOUNT|*,Construction & Contractors,Associated General Contractors PAC
+*,ASSOCIATED GENERAL CONTRACTORS OF TEXAS|*,Construction & Contractors,Associated General Contractors PAC
+*,"STAI, DIAN|*",Health Services & Pharmaceuticals,Owen Healthcare fortune (oil-tier basis)
+*,"PORTER, MICHAEL|*",Securities & Investment,filed occupation Investments (Cross Creek Ranch); source of wealth not established
+*,"NAU, JOHN|*","Retail, Food & Beverage","Silver Eagle Distributors (beer distributor), filed employer"
+*,"JLN III HOLDINGS, LLC|*","Retail, Food & Beverage",John Nau III vehicle (Silver Eagle Distributors)
+*,JLN III HOLDINGS LLC|*,"Retail, Food & Beverage",John Nau III vehicle (Silver Eagle Distributors)
+*,"MCLANE, DRAYTON|*","Retail, Food & Beverage",McLane Group (McLane Company grocery and food distribution)
+*,ANTHROPIC PBC POLITICAL ACTION COMMITTEE TEXAS|*,Tech & Internet,Anthropic PAC
+*,FRIENDS OF THE TEXAS TECH UNIVERSITY SYSTEM PAC|*,Education & Nonprofits,university PAC
+*,ASSOCIATED GENERAL CONTRACTORS OF TEXAS PAC|*,Construction & Contractors,Associated General Contractors PAC
+# --- 2026-10-30 career hand rulings, largest unidentified donors in the career views
+*,"FROST, HOLLY|*",Tech & Internet,"Holloway (Holly) Frost, Texas Memory Systems founder (filed employer on one filing)"
+*,"FERTITTA, TILMAN|*","Retail, Food & Beverage",filed employer Landry's Restaurants
+*,"SIMMONS, HAROLD|*",Manufacturing & Industry,"filed employer Contran Corporation (chemicals, metals, waste holding company)"
+*,"SIMMONS, ANNETTE|*",Manufacturing & Industry,"filed employer Valhi Inc. (Contran group: chemicals, metals)"
+*,"ANDRESEN, TERI AND MATT|*",Securities & Investment,filed employer Headlands (trading firm)
+*,"ANDRESEN, TERI & MATT|*",Securities & Investment,filed employer Headlands (trading firm)
+*,"FRIEDKIN, T DAN|*",Car Dealers,filed employer Friedkin Companies (Gulf States Toyota distributor)
+*,"MCNAIR, ROBERT|*",Recreation / Live Entertainment,filed employer Houston Texans
+*,"PLANK, MICHAEL|*",Construction & Contractors,"filed employer Speed Shore Corp / The Plank Companies (trench shoring, construction)"
+*,"RITTENMEYER, RONALD|*",Business Services & Associations,"filed employer Expert Global Solutions / NCO Group (collections, call centers)"
+*,"HILES, NANCY AND MARCUS|*",Real Estate,filed employer WRPS L.P. (Western Rim Property Services)
+*,"HILES, MARCUS|*",Real Estate,filed employer Western Rim (apartments)
+*,"HEAVIN, H GARY|*",Recreation / Live Entertainment,filed employer Curves International (fitness franchise)
+*,"HICKS, R STEVEN|*",Securities & Investment,filed employer Capstar Partners (private equity)
+*,ANDREWS & KURTH TEXAS PAC|*,Lawyers / Law Firms,Andrews Kurth law firm PAC
+*,"ANDERSON, SONYA|*",Construction & Contractors,filed employer Anderson Columbia Co. (road construction)
+*,"JASTROW, KENNETH|*",Real Estate,filed employer Forestar Group (land and real estate)
+*,TEXAS OPTOMETRIC PAC|*,Health Professionals,optometrists' PAC
+*,"MANRIQUE DE LARA, CARLOS|*",Health Professionals,filed occupation ophthalmologist
+*,"DAWSON, SAMUEL|*",Construction & Contractors,filed employer Pape-Dawson Engineers
+*,"HOURANI, MONZER|*",Real Estate,filed employer Medistar (medical real estate developer)
+*,"WESTON, GRAHAM|*",Tech & Internet,filed employer Rackspace
+*,"MITCHELL, LEE|*",Recreation / Live Entertainment,filed employer Cinemark USA (movie theaters)
+*,"MITCHELL, LEE ROY|*",Recreation / Live Entertainment,filed employer Cinemark USA
+*,RNDC POLITICAL ACTION COMMITTEE|*,"Retail, Food & Beverage",Republic National Distributing Co. (wine and spirits distributor) PAC
+*,"S & B ENGINEERS & CONSTRUCTORS, LTD|*",Construction & Contractors,engineering and construction firm (name); oil tier left as filed
+*,"DAVIS, ALEX|*",Tech & Internet,filed employer Disruptive (Disruptive Technologies)
+*,TEXAS AUTOMOBILE DEALERS ASSN PAC|*,Car Dealers,auto dealers association PAC
+*,"MCCALL, JOHN|*",Health Professionals,filed employer Vision Source (optometry)
+*,FARMERS EMPLOYEE AND AGENT PAC OF TEXAS|*,Insurance,Farmers Insurance employee and agent PAC
+*,FARMERS EMPLOYEE & AGENT PAC OF TEXAS|*,Insurance,Farmers Insurance employee and agent PAC
+*,NCHA S TEXAS EVENTS PAC|*,Ranching & Agriculture,National Cutting Horse Association events PAC
+*,"SHEFFIELD, JAMES|*",Business Services & Associations,filed employer Documation / UBEO Business Services
+*,"HORNER, TIMOTHY|*","Retail, Food & Beverage",filed employer Premier Designs (jewelry direct sales)
+*,"HORNER, TIM|*","Retail, Food & Beverage",filed employer Premier Designs
+*,EMPOWER TEXANS PAC|*,Ideological & Single-Issue Groups,"Empower Texans PAC (conservative); its funders include Tim Dunn and the Wilks brothers, not traced here"
+*,EMPOWER TEXAS PAC|*,Ideological & Single-Issue Groups,Empower Texans PAC (misspelled filing)
+*,"SARVADI, PAUL|*",Business Services & Associations,filed employer Insperity (HR outsourcing)
+*,HOMEPAC OF TEXAS|*,Home Builders,Texas Association of Builders PAC
+*,"APLIN III, ARCH|*","Retail, Food & Beverage",filed employer Buc-ee's
+*,"SCHNITZER, KENNETH|*",Car Dealers,filed employer Avondale Dealerships / Park Place Motorcars
+*,"WALTON, ALICE|*","Retail, Food & Beverage",Walmart heir; filed Crystal Bridges Museum
+*,"CARONA, JOHN|*",Real Estate,filed employer Associa (community-association management)
+*,POLITICAL ACTION COMMITTEE OF WINSTEAD PC|*,Lawyers / Law Firms,Winstead PC law firm PAC
+*,TLR PAC|*,Ideological & Single-Issue Groups,Texans for Lawsuit Reform PAC
+*,"ANSARY, HUSHANG|*",Manufacturing & Industry,"filed employer Stewart & Stevenson (equipment maker, including oilfield equipment); oil tier left as filed"
+*,"DAVIS, JAMES|21076",Business Services & Associations,filed employer Allegis Group (staffing)
+*,SERVICE CORPORATION INTERNATIONAL|*,Business Services & Associations,funeral services company
+*,"STEIN, SHELDON|*","Retail, Food & Beverage",filed employer Glazer's Distributors (wine and spirits)
+*,"MCCLANE, DRAYTON|*","Retail, Food & Beverage",McLane Group
+*,"MCLANE, JR , DRAYTON|*","Retail, Food & Beverage",McLane Group
+*,"PEROT, ROSS|*",Real Estate,filed employer Hillwood
+*,"BENNETT, MONTY|*",Real Estate,filed employer Ashford Hospitality Trust (hotel REIT)
+*,"BENNET, MONTGOMERY|*",Real Estate,filed employer Ashford
+*,"COLLINS, RICHARD|*",Tech & Internet,filed employer Istation (education software)
+*,"LACORE, TERRY|*",Health Services & Pharmaceuticals,filed employer bHIP (nutritional supplements)
+*,TEXANS FOR GREG ABBOTT|*,Candidate & Party Committees,Abbott campaign committee transfer
+*,HS LAW PAC|*,Lawyers / Law Firms,law firm PAC (name)

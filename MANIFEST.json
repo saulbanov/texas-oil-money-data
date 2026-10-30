@@ -1,0 +1,198 @@
+{
+ "built": "2026-10-30",
+ "built_by": "scripts/factcheck_export.py",
+ "source_repo": "saulbanov/tx-campaign-money (private)",
+ "source_commit": "3098f3eb68fa520f806d2f6774c7be50aa270a96",
+ "source_had_uncommitted_changes": false,
+ "tec_bulk_export": {
+  "url": "https://prd.tecprd.ethicsefile.com/public/cf/public/TEC_CF_CSV.zip",
+  "downloaded": "2026-10-29",
+  "zip_sha256": "3d4fb840ab2ffe8af07a89152853a6c9bf9d9caf24494239719a12928ed6d578"
+ },
+ "files": {
+  "LICENSE": {
+   "bytes": 1490,
+   "sha256": "6afbc803bb95b3a091c38e8e8498686615994353b4644a2e4d9ec934a4cdc81c"
+  },
+  "README.md": {
+   "bytes": 8480,
+   "sha256": "1438bd424935cbeb818755db15ca6750ff264fd9a1b083ae6d2ee4c41370377e"
+  },
+  "checks/fec_totals.json": {
+   "bytes": 1350,
+   "sha256": "5a72ed754271eafb0237a0024497c975c5501671f010f2bf95d26251ae36a64b"
+  },
+  "checks/filer_ids.md": {
+   "bytes": 5007,
+   "sha256": "011ee98b691815a5c062e6408899331cc7a48e0403876e9ddd8353cba936d98e"
+  },
+  "checks/industry_ranking_2025-26.csv": {
+   "bytes": 37505,
+   "sha256": "c124231bd7accbb87a4d48ada55bcfb56eec18ca0f9118a5c3c4fa6382886f9b"
+  },
+  "checks/industry_ranking_career.csv": {
+   "bytes": 40092,
+   "sha256": "ecb50ee88ae39481fc6ad7d93794071af0db62dd8ddf07a079713ec1bf7d2d27"
+  },
+  "checks/oil_definition_check_2025-26.csv": {
+   "bytes": 1955,
+   "sha256": "d3e8a3459b3aae7ed47d007af04018f4841740b03f6854b70915b68773e025ff"
+  },
+  "checks/oil_definition_check_career.csv": {
+   "bytes": 1666,
+   "sha256": "85f28e13f5fee62295b9fbd1b0caa10012d296d0a39460143a077fb27453ebba"
+  },
+  "checks/opensecrets_industries_by_sector_2026-10-30.txt": {
+   "bytes": 3670,
+   "sha256": "f6107f470c08469ba050fae77a20abe44e418de33b5b748710cda657ce7ef2f7"
+  },
+  "checks/report_check_fec.csv": {
+   "bytes": 1478,
+   "sha256": "1448bd98d86f18548f847b30297d2a646fefaa27b5848624513257a8d43cf4c6"
+  },
+  "checks/report_check_tec.csv": {
+   "bytes": 37687,
+   "sha256": "03487d59b5febe0cec5e38a4f293dae2a885a3295e1e6fa73115c05e7700bf7d"
+  },
+  "checks/sensitivity.csv": {
+   "bytes": 981,
+   "sha256": "12db06de4d621413244c662ab112f4d2f37afd4fa14cffbbfa9cf11472b38935"
+  },
+  "contributions/oil_and_energy_contributions.csv": {
+   "bytes": 2649806,
+   "sha256": "dceb02c3199040a6f0693b2e1e21520fbf2eec61b595e949a605042b45deb4ff"
+  },
+  "donors/donors_abbott.csv": {
+   "bytes": 5526225,
+   "sha256": "c6a77de1fabef008e44ae6e62ced441901acedd369705d868252d0f17f9f3def"
+  },
+  "donors/donors_abbott_career.csv.gz": {
+   "bytes": 13300661,
+   "sha256": "4239bf85e1c66011bb499976c6dced166b26591ce914531e343e80c7d5a9b180"
+  },
+  "donors/donors_lone_star_liberty.csv": {
+   "bytes": 71567,
+   "sha256": "6b23da29c2410442d208f74d31918eda0c3cfca7224d2ad6f4ee7a65daef1dc0"
+  },
+  "donors/donors_patrick.csv": {
+   "bytes": 895068,
+   "sha256": "7e4e1c5620cf7be5ac675ca75d22ff160ebaf7e08844b1137bad829159ef34cc"
+  },
+  "donors/donors_patrick_career.csv": {
+   "bytes": 3262355,
+   "sha256": "7cf04f164403b3d6e20a16c9fde7b5c7dfee18d67b700315e6c89fdec11c783e"
+  },
+  "donors/donors_paxton_senate.csv": {
+   "bytes": 3849114,
+   "sha256": "fcadbdf74000634c16fddb1a65345c602ef28644c9f75cf7dca7f06bc9f05fdc"
+  },
+  "donors/donors_paxton_state_career.csv": {
+   "bytes": 3899574,
+   "sha256": "07441be0b49570e232f073dbd6481e44dcdb0570e6681c31ffc9d1a99ab2632b"
+  },
+  "donors/donors_paxton_victory.csv": {
+   "bytes": 44437,
+   "sha256": "a331bff87e86c8a6b73d54efcfa5e1270d0a97b54360ad63d95478e8f79af529"
+  },
+  "donors/industry_abbott.csv": {
+   "bytes": 7937074,
+   "sha256": "480990221c8d171b04992f646eb02c6f8a42ac76307ce8035cf4eb05eb00595d"
+  },
+  "donors/industry_abbott_career.csv.gz": {
+   "bytes": 9281195,
+   "sha256": "7f5a314595bff6c0513c68b16b7b19048c3624a9f53f944dac27cfc13b3e89e5"
+  },
+  "donors/industry_lone_star_liberty.csv": {
+   "bytes": 52453,
+   "sha256": "ae98dfa7ace490cd5c41a7d6b9c7a3fd88b5c1f4fc7cc431f768260cf9cb0b03"
+  },
+  "donors/industry_patrick.csv": {
+   "bytes": 1151775,
+   "sha256": "fe945b442fed36e9cddae008c9562d6f257ffd274b797837bc90453a3afd9960"
+  },
+  "donors/industry_patrick_career.csv": {
+   "bytes": 3791670,
+   "sha256": "5b30be9daa8bf195b27a2cd8f64e86eaf8e71ba3fb0f9cd667b489baf3d7ae26"
+  },
+  "donors/industry_paxton_senate.csv": {
+   "bytes": 4319238,
+   "sha256": "38aaba8a1fa46ad19c5ee195ffe38cb393a1adbcffd790411885901be5f2aedd"
+  },
+  "donors/industry_paxton_state_career.csv": {
+   "bytes": 4915427,
+   "sha256": "e06a2a7ce70decd9ce5ef182076763ae630cfa1473454504b48dfdb4bbd41935"
+  },
+  "donors/industry_paxton_victory.csv": {
+   "bytes": 43472,
+   "sha256": "0ca9de171539e731972fead5f8727561cfab7f06107b6ebe2784bb450856e547"
+  },
+  "rulings/hand_rulings.csv": {
+   "bytes": 44427,
+   "sha256": "11608afacfc8277f798a613cbb799732d6b19e3b14da23185011cde9af5c42c1"
+  },
+  "rulings/hand_rulings_career.csv": {
+   "bytes": 55088,
+   "sha256": "e11efc400ca842ddba6999d1cd041a2b387044fa74e490e55e9c5cec78d08248"
+  },
+  "rulings/industry_rulings.csv": {
+   "bytes": 22476,
+   "sha256": "2334611f826ec77338722a7c37c21f561ff15ad8515adbf250e24aedac0bdd61"
+  },
+  "scripts/factcheck_export.py": {
+   "bytes": 17934,
+   "sha256": "5853f7f317bf071740ddd0d0d1451523a15a426a480d308760a5bbea5b781131"
+  },
+  "scripts/fec_to_jsonl.py": {
+   "bytes": 3858,
+   "sha256": "0a0edd204864d429a7f6482f5c69f077e6b01b648ad7f9f71aff8e7a03495888"
+  },
+  "scripts/industry_rank.py": {
+   "bytes": 24931,
+   "sha256": "d8f9c3b8aa147e48bdc50aff419dfd3ad5bdf8592b03f0e5a6f8bf79218db68c"
+  },
+  "scripts/public_text.py": {
+   "bytes": 1234,
+   "sha256": "fb043a04a297c3267d3b11a02daa1e6c459d6f4e6710e537468dbffa67d3a51c"
+  },
+  "scripts/reconcile_reports.py": {
+   "bytes": 4703,
+   "sha256": "0bac7ce08fe6e76975b43a952045e1fbc7c70fd260ff3828e5e75bfe57a33437"
+  },
+  "scripts/sector_read.py": {
+   "bytes": 42135,
+   "sha256": "2ecc55f270ffdfb9b0283776c4aed9f2f048dc8a4323baa8be300748ca353d64"
+  },
+  "scripts/sensitivity.py": {
+   "bytes": 2608,
+   "sha256": "e312500e0cd05ec95c6a60364f0417c2434ba787aceec32dda32ee7b0315f60c"
+  },
+  "scripts/slice_tec.py": {
+   "bytes": 3151,
+   "sha256": "e47489f197a5a1eef782701bce190490f82509864896737da4a8a1f36a60eee0"
+  },
+  "spot_check.csv": {
+   "bytes": 5354,
+   "sha256": "f1d7634948ba277cc0821c09bc4da017bd1e1f57f43df1314d283b55c487f870"
+  },
+  "summaries/industries_2025-26.md": {
+   "bytes": 35002,
+   "sha256": "b880c17d34df9e7f550ec25f258d96ba912a039c43cba7d60dc8f4c34b0e12db"
+  },
+  "summaries/industries_career.md": {
+   "bytes": 32844,
+   "sha256": "2c4e38e8313fa48244c3459a2bce678b77866236ce42f02570296ca68039ab3f"
+  },
+  "summaries/stage-b-reproduction.md": {
+   "bytes": 20311,
+   "sha256": "24de358457054b53476588ea55d0f95dfe1e4220aad27f36aa28e64d40e8ccae"
+  },
+  "summaries/summary.md": {
+   "bytes": 39511,
+   "sha256": "67205e72494f7eb44bcfff33b6c3aed918f6af7ebdfd70f49a557888887ff097"
+  },
+  "summaries/summary_career.md": {
+   "bytes": 61712,
+   "sha256": "2e0447e55fa68cfc9968e7c6f49e983f5e96bd42a0d9be9ae428686a4f676807"
+  }
+ }
+}
